@@ -210,7 +210,7 @@ void Memory:: dynWorstFit() {
 
 void Memory:: output() {
 
-	cout << "Process ID\t " << "Partition ID\t" << "Wasted Time\t" << "Status\n";
+	cout << "Process ID\t " << "Partition ID\t" << "Wasted Space\t" << "Status\n";
 	for (int i = 0; i < queueSize; i++) {
 		cout << queue[i].processId << "\t\t";
 		if (!queue[i].status) {
