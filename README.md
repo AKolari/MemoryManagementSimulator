@@ -5,4 +5,5 @@ C++ program which implements 4 memory management algorithms: first fit, next fit
 Simply input the requested information to see how your processes will be partitioned with each algorithm.
 
 
-![image](https://github.com/AKolari/MemoryManagementSimulator/assets/90071560/058c230b-9621-4dbd-8a1e-3ce1f25ef757)
+![image](https://github.com/AKolari/MemoryManagementSimulator/assets/90071560/ad19a626-5122-48a3-96fb-ee8da78594cd)
+
